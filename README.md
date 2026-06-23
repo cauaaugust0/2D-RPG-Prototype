@@ -1,4 +1,4 @@
-# 2D-RPG-Prototype (Development)
+# 2D-RPG (Development)
 
 A 2D top-down RPG prototype written in C using Raylib.
 
