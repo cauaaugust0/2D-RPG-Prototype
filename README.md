@@ -13,6 +13,7 @@ The main purpose of this project is not only to create a game, but also to study
 Technical goals include:
 
 * Game development using C.
+* Animation state machine.
 * Understanding memory management and pointers.
 * Practicing software architecture and engineering principles.
 * Studying GUI and player interaction systems.
